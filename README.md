@@ -12,7 +12,7 @@ Ce backend est construit avec **Django + Django REST Framework** et sert de couc
 > https://github.com/Anejjar24/FrontendAICodeGenrator
 
 
-<img width="300" height="110" alt="Image" src="https://github.com/user-attachments/assets/5b5f9ae2-173f-43ef-b897-5fc62b6bc06b" />
+<img width="1153" height="400" alt="Image" src="https://github.com/user-attachments/assets/294ebc31-e4d2-4c5b-960d-f690b8a1c986" />
 
 ---
 
